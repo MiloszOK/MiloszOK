@@ -1,4 +1,4 @@
-# Dzień dobry🇵🇱, my name is Miłosz and mostly I'm a Python engineer<img width="22" height="22" src="https://github.com/MiloszOK/MiloszOk/assets/153962503/004ba4de-9b7e-45f0-914c-3c3fb083d60b">
+# Dzień dobry🇵🇱, my name is Miłosz and mostly I'm a Python engineer<img width="22" height="22" src="https://github.com/MiloszOK/MiloszOK/assets/153962503/9118875d-263f-4332-932f-34f7b99bc027">
 
 
 ### Skills:
@@ -7,7 +7,7 @@
 - NumPy <img width="22" height="22" src="https://github.com/MiloszOK/MiloszOK/assets/153962503/152787a4-c72c-4d6a-94f8-6e28c70ed8b6">
 - Tkinter <img width="18" height="22" src="https://github.com/MiloszOK/MiloszOK/assets/153962503/2a062e99-7a66-454a-87c7-2c4c6b2fdcc4">
 - Jupyter <img width="22" height="22" src="https://github.com/MiloszOK/MiloszOK/assets/153962503/ad7aad15-8747-4dd0-85ea-3dec008e48e4">
-- C++ <img width="22" height="22" src="https://github.com/MiloszOK/MiloszOk/assets/153962503/98ac4762-7681-46a2-ba06-f899d254d069">
+- C++ <img width="22" height="22" src="https://github.com/MiloszOK/MiloszOK/assets/153962503/92ec8596-4d59-43cf-b5c5-0e558822611b">
 - SQL/JSON <img width="22" height="22" src="https://github.com/MiloszOK/MiloszOK/assets/153962503/be8bfa2d-3e97-4377-a58a-eb6f6d1da7b2">
 - HTML <img width="22" height="22" src="https://github.com/MiloszOK/MiloszOK/assets/153962503/19de9016-393b-4981-8278-620115878229">
 
